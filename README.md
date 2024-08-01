@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome 🤓 
+
+⚡ Fun fact: I love Physics 
+🌱 Motto: Work Hard, Stay Humble 
 
 <!--
 **oliviaborath/oliviaborath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
